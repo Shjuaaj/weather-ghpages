@@ -4,7 +4,7 @@ export default function Credit() {
   return (
     <div class="credit">
     <p>
-      Coded By <span style={{color: "purple", textDecoration:'underline '}}>Shivam Upadhyay</span>.
+      Coded By <span style={{color: "purple", textDecoration:'underline '}}>sakshi kumari</span>.
     </p>
   </div>
   );
